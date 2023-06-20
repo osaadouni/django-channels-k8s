@@ -1,0 +1,1 @@
+put here some contents of the foo.txt file
